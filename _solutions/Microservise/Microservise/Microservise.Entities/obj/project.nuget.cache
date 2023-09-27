@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2hyjyG+v141VWSZnqPjamAee8pnh85WYXLOKtWlLcBouAsqrKG4g8K+Fz/HFJaQ6RA9so6yCliEYWT4myd3PLw==",
+  "success": true,
+  "projectFilePath": "D:\\GitProjects\\OnlineShop\\_solutions\\Microservise\\Microservise\\Microservise.Entities\\Microservise.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andre\\.nuget\\packages\\calabonga.entityframeworkcore.entities.base\\2.1.0\\calabonga.entityframeworkcore.entities.base.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
